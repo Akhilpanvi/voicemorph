@@ -1,0 +1,13 @@
+{
+  "engine": "turbo",
+  "voices": { "N": "deep", "R": "bella" },
+  "lead": 0.3, "outro": 0.8,
+  "lines": [
+    { "who": "N", "emotion": "dramatic", "text": "Your phone knows where you parked. Every single time.", "pause": 0.35 },
+    { "who": "R", "emotion": "shocked",  "text": "Wait... [gasp] WHAT?! Even if I never told it?", "pause": 0.4 },
+    { "who": "N", "emotion": "narrator", "text": "Yep. When your phone disconnects from the car's Bluetooth, it drops a pin.", "pause": 0.3 },
+    { "who": "R", "emotion": "scared",   "text": "Okay... that's a little creepy. [sigh]", "pause": 0.35 },
+    { "who": "N", "emotion": "whisper",  "text": "You can turn it off in your location settings.", "pause": 0.3 },
+    { "who": "R", "emotion": "happy",    "text": "[laugh] Or never lose my car again. Honestly? I'll keep it.", "pause": 0.2 }
+  ]
+}
